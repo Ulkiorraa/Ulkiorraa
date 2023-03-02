@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Cursando ADS na Puc Goiás.<br>👯 Todo tipo de colaboração é bem vinda.<br>🤝 Procuro aprender o máximo da área de programação para me tornar um profissional capacitado de destaque.<br>🌱 Atualmente aprendendo Java, mas com vários cursos de de mais linguagens para fazer. <br>💬 Sempre aberto a discutir sobre qualquer coisa relacionado a Área de programação.
+🔭 Studying ADS at Puc Goiás.<br>👯 Any kind of collaboration is welcome.<br>🤝 I aim to learn as much as possible in the programming field to become a skilled and distinguished professional.<br>🌱 Currently learning Java, but planning to take courses in other languages as well. <br>💬 Always open to discussing anything related to the programming field.
 
 
 ## 🌐 Socials:
