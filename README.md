@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12143851765&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=0e2fd8&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12143851765&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12143851765&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=0e2fd8&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12143851765&redirect=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ulkiorraa&label=Visitantes&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
